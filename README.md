@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm currently an undergraduate in Beihang University(BUAA). 
-My research interests include generative models, AI safety. 
+I'm currently an undergraduate in Beihang University(BUAA)🧑‍🎓<br><br>
+My research interests include generative models, AI safety 😊
 <!--
 **sherlidian/sherlidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
